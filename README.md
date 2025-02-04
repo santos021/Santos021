@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santos Kumar Biswal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santos021&label=Profile%20views&color=0e75b6&style=flat" alt="santos021" /> </p>
 
-- 💬 Ask me about **Web Development and Core Java**
+- 💬 Ask me about **Web Development and Java**
 
 - 📫 How to reach me **santosbiswal543@gmail.com**
 
